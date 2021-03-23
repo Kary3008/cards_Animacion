@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap);/*Importar una url: la fuente que se va a utilizar*/
+
+html, body{
+  /*background-color: #9966ff;*/
+  background: linear-gradient(to right, #333, #660099, #000099 );
+}
+
+* {
+  font-family: "Pathway Gothic One", arial, sans-serif; /*Mandar a llamar la fuente de @import;*/
+  box-sizing: border-box;/*Siempre va a estar dentro de la caja*/
+  font-size: 20px;/*Tamaño de la fuente*/
+}

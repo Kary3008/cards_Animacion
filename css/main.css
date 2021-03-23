@@ -2,11 +2,32 @@
 
 html, body{
   /*background-color: #9966ff;*/
-  background: linear-gradient(to right, #333, #660099, #000099 );
+  background: linear-gradient(to right, #9933ff, #9966ff );
 }
 
 * {
   font-family: "Pathway Gothic One", arial, sans-serif; /*Mandar a llamar la fuente de @import;*/
   box-sizing: border-box;/*Siempre va a estar dentro de la caja*/
   font-size: 20px;/*Tamaño de la fuente*/
+}
+
+.estilo{
+  width: 100px;
+	height: 133px;
+	border:2px solid #3399ff;
+  background-color: #99ccff;
+	border-radius: 20%;
+}
+.estilo:hover{
+	width: 100px;
+	height: 140px;
+	border: 2px solid #9933ff;
+  background-color: #ccccff;
+	transform: 5s;
+}
+
+.bg-style{
+  width: 100%;
+  height: auto;
+  background-color: #99ccff;
 }

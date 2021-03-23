@@ -18,31 +18,31 @@
     <link rel="stylesheet" href="css/fontello.css">
     <link rel="stylesheet" href="css/main.css">
     <script src="js/jquery-3.5.1.min.js"></script>
-    <title>Inicio de Sistema | AdminSchool Conalep Naucalpan I</title>
+    <title>Inicio de Sistema | Conactive</title>
   </head>
   <body>
     <div class="container py-4">
          <h3 class="text-center text-light py-4"><span class="icon-users"></span> Conactive Conalep Naucalpan I</h3>
          <div class="row justify-content-center h-100 py-4">
-             <div class="card col-sm-8 col-md-6 col-lg-6 shadow-lg p-3 mb-5 bg-light text-dark rounded">
-                  <p class="text-center text-dark py-3"><span class="icon-lock"><span> Inicio de Sesión</p><hr>
+             <div class="card col-sm-8 col-md-6 col-lg-6 shadow-lg p-3 mb-5 bg-style text-dark rounded">
+                  <p class="text-center text-dark py-3"><span class="icon-lock"><span> Inicio de Sesión</p>
                   <div class="container text-center">
-                      <div class="py-2">
+                      <div class="py-1">
                          <div class="container">
                              <div class="row">
-                                 <div class="card shadow-lg p-3 mb-5 bg-light text-dark rounded text-center col-sm-4">
+                                 <div class="card estilo shadow-lg p-3 mb-5 text-dark rounded text-center col-sm-4">
                                    <div class="inicio py-1">
                                        <span class="icon-graduation-cap"></span>
                                        <p class="text-muted text-center">Alumnos</p>
                                    </div>
                                  </div>
-                                   <div class="card shadow-lg p-3 mb-5 bg-light text-dark rounded col-sm-4">
+                                   <div class="card estilo shadow-lg p-3 mb-5 text-dark rounded col-sm-4">
                                      <div class="inicio py-1">
                                      <span class="icon-suitcase"></span>
                                      <p class="text-muted text-center">Administrativo</p>
                                    </div>
                                  </div>
-                                 <div class="card shadow-lg p-3 mb-5 bg-light text-dark rounded text-center col-sm-4">
+                                 <div class="card estilo shadow-lg p-3 mb-5 text-dark rounded text-center col-sm-4">
                                    <div class="inicio py-1">
                                      <span class="icon-users"></span>
                                      <p class="text-muted text-center">Docentes</p>
